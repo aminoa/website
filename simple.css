@@ -1,0 +1,19 @@
+body{
+    color: #444;
+    background-color: #EEE;
+    margin: 40px auto;
+    max-width: 850px;
+    line-height: 1.6em;
+    font-size: 18px;
+    padding: 0;
+}
+
+a {
+    text-decoration: none; 
+}
+/* a:link {
+    color:#000000;
+}    
+a:visited {
+    color:#000000;
+}  */
