@@ -8,6 +8,11 @@ body{
     padding: 0;
 }
 
+#maincontainer {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
 li, p {
     font-family: "Pixelify Sans", serif;
     font-optical-sizing: auto;
@@ -23,6 +28,11 @@ img {
     width: 50%;
     height: 50%;
 }
+
+ul {
+    padding-left: 1.2em;
+}
+
 /* a:link {
     color:#000000;
 }    
