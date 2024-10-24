@@ -8,8 +8,20 @@ body{
     padding: 0;
 }
 
+li, p {
+    font-family: "Pixelify Sans", serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>;
+    font-style: normal; */
+}
+
 a {
     text-decoration: none; 
+}
+
+img {
+    width: 50%;
+    height: 50%;
 }
 /* a:link {
     color:#000000;
